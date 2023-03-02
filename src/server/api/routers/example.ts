@@ -23,3 +23,6 @@ export const exampleRouter = createTRPCRouter({
     return "you can now see this secret message!";
   }),
 });
+
+
+//https://www.prisma.io/docs/reference/api-reference/prisma-client-reference
