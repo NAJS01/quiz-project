@@ -63,6 +63,9 @@ const Home: NextPage = () => {
         <div>
           <p>test pour les branches git</p>
         </div>
+        <div>
+          <p>test 2 pour les branches git</p>
+        </div>
       </main>
     </>
   );
