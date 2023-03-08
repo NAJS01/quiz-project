@@ -60,6 +60,9 @@ const Home: NextPage = () => {
             <AuthShowcase />
           </div>
         </div>
+        <div>
+          <p>test pour les branches git</p>
+        </div>
       </main>
     </>
   );
