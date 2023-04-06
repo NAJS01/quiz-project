@@ -6,7 +6,6 @@ import { StartPage } from "~/components/startPage/StartPage";
 import { api } from "~/utils/api";
 
 const Home: NextPage = () => {
-
   return (
     <>
       <Head>
@@ -20,4 +19,3 @@ const Home: NextPage = () => {
 };
 
 export default Home;
-
